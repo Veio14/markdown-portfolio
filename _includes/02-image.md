@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Waterfall](https://images.app.goo.gl/a5yzM19mwZTWFTtL6)
